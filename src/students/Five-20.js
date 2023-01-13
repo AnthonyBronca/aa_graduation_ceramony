@@ -18,7 +18,7 @@ const students = [
   { name: "Chawin Pathompornvival", imageUrl: "https://avatars.githubusercontent.com/u/16549165?v=4" },
   { name: "Tyler Torrero", imageUrl: "https://avatars.githubusercontent.com/u/93111660?v=4" },
   { name: "Edgar Ulloa", imageUrl: "https://avatars.githubusercontent.com/u/36951879?v=4" },
-  { name: "Scott Wong", imageUrl: "https://avatars.githubusercontent.com/u/12021336?v=4" },
+  { name: "Scotty Wong", imageUrl: "https://avatars.githubusercontent.com/u/12021336?v=4" },
 
 ];
 
