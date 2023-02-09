@@ -30,8 +30,8 @@ class Ceremony {
                 80, 245,
                 // spriteSize[0], spriteSize[1])
                 80, 80);
-                // clearInterval(this.interval)
-        },100);
+            // clearInterval(this.interval)
+        }, 100);
     }
 
     nextStudentMoves(button) {
